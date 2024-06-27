@@ -1,2 +1,3 @@
-# Api-Testing-com-Robot-Framework
-Bem-vindo ao meu projeto de treinamento em testes de API com Robot Framework! Este projeto é focado em testar uma API específica que retorna JSONs, proporcionando um ambiente prático para você aprimorar suas habilidades de automação de testes.
+![🤖API_de_JSONs_para_treinamento_de_validações🤖](https://github.com/NimsayS/Api-Testing-com-Robot-Framework/assets/104380424/360f153d-fe9e-42ac-8d2f-7e663c2f8e7b)
+
+
